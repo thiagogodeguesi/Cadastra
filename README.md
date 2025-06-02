@@ -149,6 +149,8 @@ Dados inseridos com sucesso!
 ## ✅ Melhorias futuras
 
 - Agendar execução automática (cron/scheduler).  
+- Grafico com resultados diarios.  
+- Disparos de alertas quando valor atingir valor esperado. (Compra / Venda)
 - Testes unitários.  
 
 ---
